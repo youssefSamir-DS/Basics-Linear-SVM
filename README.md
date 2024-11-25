@@ -1,5 +1,5 @@
-This repository implements a basic Linear Support Vector Machine (SVM) model from scratch in Python. It includes functions for data exploration, training, prediction, evaluation, and visualization.
-Project Overview
+This repository implements a basic Linear Support Vector Machine (SVM) model from scratch in Python. It includes functions for data exploration, training, prediction, evaluation, and visualization.<br>
+**Project Overview**
 
     This project provides a basic understanding of how a linear SVM works.
     It demonstrates the implementation of core SVM functionalities
@@ -13,8 +13,8 @@ This project requires the following Python libraries:
     matplotlib.pyplot (plotting)
     sklearn.model_selection (data splitting)
 
-Note: You can install these dependencies using pip install numpy matplotlib scikit-learn
-Usage
+Note: You can install these dependencies using pip install numpy matplotlib scikit-learn<br>
+__Usage__
 
     Clone the repository:
 
@@ -30,8 +30,8 @@ Bash
 python main.py
 
 
-This will execute the code, perform training, and display results.
-Code Structure
+This will execute the code, perform training, and display results.<br>
+**Code Structure**
 
     Basic_SVM_model.py: Contains the implementation of the SVM model functions.
     main.py: Demonstrates the usage of the implemented functions.
